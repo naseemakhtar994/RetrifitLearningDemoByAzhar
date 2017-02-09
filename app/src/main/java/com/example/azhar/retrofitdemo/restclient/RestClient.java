@@ -4,7 +4,7 @@ import android.content.Context;
 
 import com.example.azhar.retrofitdemo.DemoGetResponseModel;
 import com.example.azhar.retrofitdemo.DemoPostResponseModel;
-import com.example.brsoft.retrofitdemo.DemoUploadPhotoModel;
+import com.example.azhar.retrofitdemo.DemoUploadPhotoModel;
 import com.example.azhar.retrofitdemo.retrofit.Rest;
 import com.example.azhar.retrofitdemo.retrofit.RestService;
 

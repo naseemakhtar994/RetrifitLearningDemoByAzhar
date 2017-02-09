@@ -3,7 +3,7 @@ package com.example.azhar.retrofitdemo.retrofit;
 
 import com.example.azhar.retrofitdemo.DemoGetResponseModel;
 import com.example.azhar.retrofitdemo.DemoPostResponseModel;
-import com.example.brsoft.retrofitdemo.DemoUploadPhotoModel;
+import com.example.azhar.retrofitdemo.DemoUploadPhotoModel;
 
 import okhttp3.MultipartBody;
 import retrofit2.Call;

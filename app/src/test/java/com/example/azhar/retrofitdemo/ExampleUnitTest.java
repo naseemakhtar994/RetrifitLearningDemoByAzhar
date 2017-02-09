@@ -1,4 +1,4 @@
-package com.example.brsoft.retrofitdemo;
+package com.example.azhar.retrofitdemo;
 
 import org.junit.Test;
 

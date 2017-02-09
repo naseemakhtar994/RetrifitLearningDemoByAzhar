@@ -21,7 +21,7 @@ import com.example.azhar.retrofitdemo.restclient.ApiHitListener;
 import com.example.azhar.retrofitdemo.restclient.ApiIds;
 import com.example.azhar.retrofitdemo.restclient.RestClient;
 import com.example.azhar.retrofitdemo.restclient.RetrofitUtils;
-import com.example.brsoft.retrofitdemo.R;
+import com.example.azhar.retrofitdemo.R;
 import com.example.azhar.retrofitdemo.Utils;
 
 import java.io.IOException;
