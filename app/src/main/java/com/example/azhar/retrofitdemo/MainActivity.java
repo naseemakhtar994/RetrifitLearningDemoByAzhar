@@ -1,4 +1,4 @@
-package com.example.brsoft.retrofitdemo;
+package com.example.azhar.retrofitdemo;
 
 import android.Manifest;
 import android.app.ProgressDialog;
@@ -17,10 +17,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.example.brsoft.retrofitdemo.restclient.ApiHitListener;
-import com.example.brsoft.retrofitdemo.restclient.ApiIds;
-import com.example.brsoft.retrofitdemo.restclient.RestClient;
-import com.example.brsoft.retrofitdemo.restclient.RetrofitUtils;
+import com.example.azhar.retrofitdemo.restclient.ApiHitListener;
+import com.example.azhar.retrofitdemo.restclient.ApiIds;
+import com.example.azhar.retrofitdemo.restclient.RestClient;
+import com.example.azhar.retrofitdemo.restclient.RetrofitUtils;
+import com.example.brsoft.retrofitdemo.R;
+import com.example.azhar.retrofitdemo.Utils;
 
 import java.io.IOException;
 import java.util.ArrayList;

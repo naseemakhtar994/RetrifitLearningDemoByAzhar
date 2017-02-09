@@ -1,4 +1,4 @@
-package com.example.brsoft.retrofitdemo.restclient;
+package com.example.azhar.retrofitdemo.restclient;
 
 import android.app.ProgressDialog;
 import android.content.Context;

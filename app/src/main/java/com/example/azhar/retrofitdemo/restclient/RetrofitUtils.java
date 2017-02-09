@@ -1,4 +1,4 @@
-package com.example.brsoft.retrofitdemo.restclient;
+package com.example.azhar.retrofitdemo.restclient;
 
 /**
  * Created by ubuntu on 6/10/16.

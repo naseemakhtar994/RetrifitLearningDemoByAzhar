@@ -1,4 +1,4 @@
-package com.example.brsoft.retrofitdemo;
+package com.example.azhar.retrofitdemo;
 
 /**
  * Created by brsoft on 6/1/17.

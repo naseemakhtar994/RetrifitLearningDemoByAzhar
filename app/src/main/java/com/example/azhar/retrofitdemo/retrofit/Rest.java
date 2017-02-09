@@ -1,8 +1,8 @@
-package com.example.brsoft.retrofitdemo.retrofit;
+package com.example.azhar.retrofitdemo.retrofit;
 
 
-import com.example.brsoft.retrofitdemo.DemoGetResponseModel;
-import com.example.brsoft.retrofitdemo.DemoPostResponseModel;
+import com.example.azhar.retrofitdemo.DemoGetResponseModel;
+import com.example.azhar.retrofitdemo.DemoPostResponseModel;
 import com.example.brsoft.retrofitdemo.DemoUploadPhotoModel;
 
 import okhttp3.MultipartBody;

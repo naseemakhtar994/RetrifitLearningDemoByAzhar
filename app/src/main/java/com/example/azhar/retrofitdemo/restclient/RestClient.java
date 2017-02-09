@@ -1,12 +1,12 @@
-package com.example.brsoft.retrofitdemo.restclient;
+package com.example.azhar.retrofitdemo.restclient;
 
 import android.content.Context;
 
-import com.example.brsoft.retrofitdemo.DemoGetResponseModel;
-import com.example.brsoft.retrofitdemo.DemoPostResponseModel;
+import com.example.azhar.retrofitdemo.DemoGetResponseModel;
+import com.example.azhar.retrofitdemo.DemoPostResponseModel;
 import com.example.brsoft.retrofitdemo.DemoUploadPhotoModel;
-import com.example.brsoft.retrofitdemo.retrofit.Rest;
-import com.example.brsoft.retrofitdemo.retrofit.RestService;
+import com.example.azhar.retrofitdemo.retrofit.Rest;
+import com.example.azhar.retrofitdemo.retrofit.RestService;
 
 import okhttp3.MultipartBody;
 import retrofit2.Call;
